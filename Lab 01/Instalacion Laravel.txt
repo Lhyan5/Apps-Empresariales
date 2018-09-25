@@ -1,0 +1,32 @@
+			     Laravel Instalacion y configuracion
+
+Primero Descargamos e instalamos el composer y lo instalamos en el servidor xampp o wamp64(1.1)
+
+Luego descargamos un zip o rar del SublimeText3 y lo descomprimimos en donde deseemos(1.2)
+
+Despues intalaremos los paquetes necesarios al SublimeText3 que nos pide el laboratorio(1.3.1) y (1.3.2)
+
+Depues creamos con composer por medio de comando la carpeta Gestor imagenes lo que nos cargara junto con 
+la instalacion de laravel (1.4.1), (1.4.2) y (1.4.3)
+
+Verificamos que se nos halla creado la carpeta GestorImagenes en nuestra carpetas de documentos de 
+Xampp o wamp64 , en mi caso es wamp64 ya que con xampp tuve problemas(1.5)
+
+Ejecutamos la pagina indicada en el puerto que tengamos en mi caso 8080 y veremos la que sale la imagen
+igual que en el laboratorio(1.6)
+
+-------------------------------------------------------------------------------------------------------------
+OBSERVACIONES			
+•	Usamos programas nuevos y vimos su instalación paso a paso.
+•	El profesor nos ayudo en todas las dudas que tuvimos.
+•	Necesitábamos versiones resientes para poder realizar el laboratorio.
+•	Hubo complicaciones, pero se pudieron resolver.
+•	Algunos puertos que usaban los programas ya estaban siendo usados por otros y tuvimos que cambiarlos.
+	
+
+CONCLUSIONES
+•	Instalamos Sublime Text con su versión portable.
+•	Instalamos Wamp su versión mas reciente para usar laravel.
+•	Instalamos el composer dentro del Wamp siendo reconocido automáticamente.
+•	Instalamos paquetes en el Sublime Text 3. 
+•	Vimos el uso de paginas web usando php levantándolo con el Wamp.

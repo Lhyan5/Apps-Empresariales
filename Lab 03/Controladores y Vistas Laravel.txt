@@ -1,0 +1,55 @@
+			     Laravel Controladores y Vistas
+
+Primero creamos nuevos controladores para las fotos con sus diversas opciones ya sea crear actualizar o borrar
+como tambien sus manejos de errores(3.1)
+
+Despues hicimos lo mismo con Album y usuario (3.2) y (3.3)
+
+Luego de esto lo conectamos en route para saber su direccion o su "link" (3.4)
+
+Ejecutamos uno de prueba para ver como iba y nos dio un pequeño error (3.5)
+
+Acudimos a cambiar el codigo con las direcciones correctas y al volver a ejecutar nos daba como debia ser
+inicialmente(3.6) (3.7) y (3.8)
+
+Cuando intentamos entra a fotos vimos que nos mandaba a la misma direccion anterior(3.9)
+
+Luego de modificar codigo volvimos a ejecutar y ahora si nos mando a la direccion correcta(3.10)
+
+Entramos a ver si funcionaba el crear foto y vimos que si (3.11)
+
+Y al entrar a una pagina incorrecta nos daba un error(3.12)
+
+Modicamos codigo para que no nos bote ese error(3.13.1) luego intentamos entrar a una pagina equivocada
+y nos salio un mensaje tal como el que escribimso en el codigo(3.13.2)
+
+En el codigo cambiamos direcciones y lo pasamos a español(3.14)
+
+Modificamos parte del codigo para que nos de condiciones o recomendaciones(3.15.1) al igual que una bienvenida
+para usuarios logueados(3.15.2)
+
+Cambiamos los valores retornados en unas funciones(3.16.1)(3.16.2)
+
+De ahi ejecutamos y nos da el mensaje tal como en el codigo(3.17.1) y al hacer click en inciar sesio nos manda a 
+a direccion del login que es un texto diciendo que es el formulario(3.17.2) y al darle click en registrarse un 
+texto diciendo que es formulario de la creacion de la cuenta(3.17.3)
+
+Modificamos codigo tanto el de inicio de sesion como el de registrarse(3.18)
+
+Ejecutamos y nos da un formulario para iniciar sesion(3.19) y tambien un formualrio para registrarse(3.20)
+
+Y para finalizar creamos un formulario para recuperar contraseña(3.21)
+
+-------------------------------------------------------------------------------------------------------------
+
+CONCLUSIONES
+•	Continuamos con lo echo anteriormente.
+•	Ejecutamos lo echo comporvando el funcionamiento.
+•	Creamos una interfaz de logueo.
+•	Creamos una interfaz de resistro.
+•	Creamos una interfaz para la recuperacion de contraseña.
+•	Creamos nuevos archivos para usarlos.
+•	Modificamos algunos archivos conectandolos con otros haciendolos mas funcionales.
+•	Ahora hemos puesto botones que llevan a otro enlace.
+•	Lo que hicimos en laboratorios anteriores fue comprobar que este todo bien echo usando frases para 
+	identificar si estaba bien o mal.

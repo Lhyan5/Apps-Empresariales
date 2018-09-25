@@ -1,0 +1,45 @@
+		Laravel Definicion del Proyecto y Creacion de Modelos
+
+Primero agregamos lineas en host(una carpera de system32) (2.1)
+
+Seguido de esto modificamos unas lineas en httpd-vhosts.conf(Una carpeta de wamp64) (2.2)
+
+Luego creamos una base de datos gestorimagenes en nuestro phpmyadmin (2.3.1) y (2.3.2)
+
+Aqui con un comando veremos todos los comandos disponibles de artisan (2.4.1) y (2.4.2)
+
+Ahora configuramos el nombre de la aplicacion con uno de los comandos disponibles vistos 
+(2.5) y (2.6)
+
+Luego configuramos el archivo .env (2.7)
+
+Despues modificaremos el archivo user.php cambiandolo sus fillable (2.8)
+
+Crearemos un archivo llamado album.php y le aumetaremos texto como se ve en (2.9) haciendo 
+la relacion album foto.
+
+Tambien crearemos un archivo llamado foto.php con los fillable que nos pide y le pondremos 
+la relacion foto album (2.10)  
+
+Al igual que en los anteriores modificaremos usuarios para crear la relacion usuario 
+album (2.11)
+
+Luego cambiaremos cambiaremos nombres a authcontroller por validacioncontroller.php y le 
+modificaremos el use AuthenticatesAndRegisterUsers, le haremos click y entraremos a 
+el archivo y pegaremos todo el contenido de esta hasta el final, como veremos un fragmento 
+en (2.12)
+
+Ahora solo cambiaremos todos los datos que halla al español como WelcomeController por 
+BienvenidaController, el getResgister por getRegistro y asi a mucho como se ve en todo lo 
+que sea (2.13)
+
+----------------------------------------------------------------------------------------------	
+
+CONCLUSIONES
+•	Creamos archivos .php y modificamos otros.
+•	Hicimos relaciones como foto album, album foto, usuario album y asi.
+•	Creamos una base de datos con el wamp64.
+•	Cambiamos archivos dentro de nuestra PC.
+•	En esta oportunidad solo modificamos archivos mas no ejecutamos nada.
+•	Cambiamos el codigo que teniamos al español para hacerlo mas entendible.
+•	Al ejecutar sale un error pero debe ser porque nos falta agregar cosas.
