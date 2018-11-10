@@ -1,0 +1,32 @@
+En el punto (4.1) Creamos las tablas Albumes y fotos las cuales vemos ya creadas en el punto (4.2).
+
+Para luego seguir creando los datos de cada tabla (4.3) y lo vemos funcional en la (4.4).
+
+De ahi vemos que validacion inicio hay error porque no existe request (4.5) ya despues vemos
+como algo salio mal como nos indica l imagen (4.6).
+
+Ahora vemos como es el inicio cuando se ha validado del primer usuario (4.7) y por el usuario 2 (4.8).
+
+Luego vemos como se creo nuestro propio usuario con exito despues del ultimo usuario que es el 50 (4.9.1)
+
+Y en la que sigue esta un logueo de nuestro usuario creado (4.9.2) y nuestro archipo que controla todo el
+inicio de sesion (4.10.2) con el comando visto en (4.10.1) 
+
+Luego con el mismo codigo y otro nombre creamos la carpeta para recuperar contraseña y probamos equivocandonos
+de pregnta o respuesta (4.12.1) y el error es el visto en (4.12.2)
+
+
+
+
+<----------------------------------CONCLUSIONES---------------------------------->
+
+Hicimos la interfaz y la funcionalidad del inicio.
+Hicimos la interfaz para registrar nuevos usuarios.
+Continuamos con la opcion de recuperar contraseña
+Controlamos las manipulaciones incorrectas y correctas.
+Creamos 3 tablas con hartos datos cada una.
+Creamos contraseñas encriptadas que no se podian ver en la base de datos.
+Usamos el phpMyAdmin para ver nuestra bd.
+Usamos comandos para manipular todo lo que hicimos.
+
+
