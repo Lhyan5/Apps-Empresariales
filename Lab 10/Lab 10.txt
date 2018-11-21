@@ -1,0 +1,15 @@
+Concluimos poniendole un diseño mas decente como exparsirlo en la pantalla o 
+controlarlo dependiendo de que tamaño de pantalla estemos usando(10.1).
+
+Hicimos lo mismo tanto en los albumes como en la fotos(10.2)
+
+-----------------------------------------------------------------
+
+Observaciones y conclusiones
+
+Concluimos con todos lo funcional de este gestorImagenes.
+Aumentamos un diseño dependiendo de que porte de pantalla o ventana usemos.
+Toda la informacion de almacena en la base de datos creada en los primeros laboratorios.
+Hicimos los ultimo alimentando la base de datos con comandos.
+En caso de error tuvimos que cambiar la tabla usuario el user por usuarios.
+Todo estuvo bien especificado para poder realizarlo sin problemas.

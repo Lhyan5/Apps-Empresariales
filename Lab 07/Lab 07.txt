@@ -1,0 +1,20 @@
+Vemos que se añadio con exito el boton de Editar Foto(7.1.1).
+
+Se puede ver que estamos editando los datos de la foto y 
+subiendo otra foto en vez de la que hay(7.1.2).
+
+Vemos que el mensaje de que la operacion fue exitosa(7.1.3).
+
+Vemos que la foto fue cambiada asi como el titulo y la descripcion(7.1.4).
+
+Todo con el mismo ID para confirmar.
+
+----------------------------------
+Observaciones y Conclusiones
+
+Implementamos la opcion para actualizar fotos.
+Dimos las condiciones para actualizar los datos.
+Probamos la app con todo lo echo funcional.
+Editamos mas codigo en los archivos
+Creamos mas blades.
+Creamos as request para cada opcion que pongamos.

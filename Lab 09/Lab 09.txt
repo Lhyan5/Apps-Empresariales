@@ -1,0 +1,20 @@
+Vimos que los botones esten activos y listos ara ponerles funcionalidad(9.1.1)
+
+Eliminamos el album 8 para probar que realmente funciona(9.1.2)
+
+Vemos que ya no hay album 8 en la lista porque fue eliminado(9.1.3)
+
+Ahora probaremos lo mismo con las fotos eliminaremos 1(9.2.1)
+
+Nos da el mensjae de que fue un exito y ya no hay foto 1(9.2.3)
+
+--------------------------------------
+
+Observaciones y Conclusiones
+
+Creamos la opcion de eliminar album.
+Modificamos los controladores de albumes.
+Hicimos los mensajes para comprobar las operaciones
+Creamos el respectivo request a la opcion de eliminar.
+A la fotos tambien le añadimos su opcion de elimianr fotos.
+Con esto ya estaria completa todas las funcionalidades necesarias de un gestor imegenes.

@@ -1,0 +1,22 @@
+Probamos lo modificado oara ver la funcionalidad al crear un album(6.1.1).
+
+Con el exito de su funcionamiento(6.1.2) y las pruebas de la creacion(6.1.3)
+
+Vemos que al entrar nos dice que no tenemos fotos y nos da la opcion para crear foto(6.2.1)
+
+Como tambien al darle click nos da la opcion para poner nombre una descripcion y la 
+imagen a subir(6.2.2)
+
+Vemos una prueba con fotos personales y con los datos que nos pide al crear(6.2.3)
+
+-------------------------------------------
+Observaciones y Conclusiones
+ Aumentamos mas enlaces para conectar los botones.
+ Creamos variables que reciben datos dependiendo de otra.
+ Modificamos codigo para poner el agregar album.
+ Se agrega un album en la base de datos phpMyAdmin.
+ La mayoria de creaciones se guardan dependiendo de un id
+ Pusimos que al cargar la imagen solo se admitan una cierta cantidad de megabytes
+ Si nos salia error teniamos que cambiar unas lineas en el archivo php.ini
+ El profesor nos ayudo en los problemas.
+ Probamos el album y todo funciono como lo esperado.

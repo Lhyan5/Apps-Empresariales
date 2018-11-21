@@ -1,0 +1,28 @@
+Primero iplementamos un boton en las opciones de usuario llamado actualzar perfil(5.1.1)
+que nos permitia actualizar los datos del usuario que estemos logueados pidiendonos datos
+(5.1.2) 
+
+Luego insertamos un codigo para crear los el archivo de requisitos de editar o actualizar(5.2)
+Probamos cambiando datos y vemos que nos efectua el cambio con exito(5.3)
+
+Escribimos mas codigo y hacemso que al azar se vallan una cantidad de albumes a diferentes 
+usuarios(5.4) al igual que fotos al azar a cada album(5.5)
+
+Vemos en inspeccioanr codigo a el boton crear foto y nos dirigimos al link que tiene(5.6)
+Nos lleva a una pagina con el texto forbidden(5.7).
+
+---------------------------------
+Observaciones y conclusiones:
+
+ - Creamos interfaz y funcionalidad a la opcion de actualizar datos.
+ - Para confirmar que todo salio bien configuramos colores y frases para indicar si esta bien o no.
+ - Creamos todos los albumes al azar para diferentes usuarios.
+ - Creamos fotos a lazar para albumes.
+ - Inspeccionamos codigo en la web.
+ - Futuramente modificaremos el ver las fotos.
+ - Tenemos que recordar como estan las variables ya que pueden causar errores terribles.
+ - No tenemos que usar las "ñ" ya que php no las reconoce.
+ -
+ - 
+ -
+ -
